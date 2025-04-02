@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Lucuma",
+        "quantity": 10,
+        "price": 20.0,
+        "family": "Hidalgo",
+        "genus": "sapotaceae",
+        "order": "canistel",
+        "carbohydrates": 100.0,
+        "protein": 20.0,
+        "fat": 20.0,
+        "calories": 20.0,
+        "sugar": 100.0,
+        "id": 1
+    }
+]
